@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/Manikandan/Manikandan/Gators Automation/Selenium Jar files/activation.jar"/>
+	<classpathentry kind="lib" path="D:/Manikandan/Manikandan/Gators Automation/Selenium Jar files/apache-commons-lang.jar"/>
+	<classpathentry kind="lib" path="D:/Manikandan/Manikandan/Gators Automation/Selenium Jar files/apache-commons-net.jar"/>
+	<classpathentry kind="lib" path="D:/Manikandan/Manikandan/Gators Automation/Selenium Jar files/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Manikandan/Manikandan/Gators Automation/Selenium Jar files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Manikandan/Manikandan/Gators Automation/Selenium Jar files/curvesapi-1.03.jar"/>
+	<classpathentry kind="lib" path="D:/Manikandan/Manikandan/Gators Automation/Selenium Jar files/extentreports-2.40.2.jar"/>
+	<classpathentry kind="lib" path="D:/Manikandan/Manikandan/Gators Automation/Selenium Jar files/extentreports-2.41.0.jar"/>
+	<classpathentry kind="lib" path="D:/Manikandan/Manikandan/Gators Automation/Selenium Jar files/extentreports-3.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Manikandan/Manikandan/Gators Automation/Selenium Jar files/fontbox-1.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Manikandan/Manikandan/Gators Automation/Selenium Jar files/fontbox-1.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/Manikandan/Manikandan/Gators Automation/Selenium Jar files/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/Manikandan/Manikandan/Gators Automation/Selenium Jar files/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Manikandan/Manikandan/Gators Automation/Selenium Jar files/java-json.jar"/>
+	<classpathentry kind="lib" path="D:/Manikandan/Manikandan/Gators Automation/Selenium Jar files/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Manikandan/Manikandan/Gators Automation/Selenium Jar files/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Manikandan/Manikandan/Gators Automation/Selenium Jar files/pdfbox-1.8.2.jar"/>
+	<classpathentry kind="lib" path="D:/Manikandan/Manikandan/Gators Automation/Selenium Jar files/poi-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="D:/Manikandan/Manikandan/Gators Automation/Selenium Jar files/poi-examples-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="D:/Manikandan/Manikandan/Gators Automation/Selenium Jar files/poi-excelant-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="D:/Manikandan/Manikandan/Gators Automation/Selenium Jar files/poi-ooxml-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="D:/Manikandan/Manikandan/Gators Automation/Selenium Jar files/poi-ooxml-schemas-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="D:/Manikandan/Manikandan/Gators Automation/Selenium Jar files/poi-scratchpad-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="D:/Manikandan/Manikandan/Gators Automation/Selenium Jar files/reportng-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Manikandan/Manikandan/Gators Automation/Selenium Jar files/selenium-api-2.34.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Manikandan/Manikandan/Gators Automation/Selenium Jar files/selenium-htmlunit-driver-2.9.0.jar"/>
+	<classpathentry kind="lib" path="D:/Manikandan/Manikandan/Gators Automation/Selenium Jar files/selenium-java-3.12.0.jar"/>
+	<classpathentry kind="lib" path="D:/Manikandan/Manikandan/Gators Automation/Selenium Jar files/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/Manikandan/Manikandan/Gators Automation/Selenium Jar files/velocity-dep-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Manikandan/Manikandan/Gators Automation/Selenium Jar files/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
